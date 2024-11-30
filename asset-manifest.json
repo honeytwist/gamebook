@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gamebook/static/css/main.44a1682f.css",
+    "main.js": "/gamebook/static/js/main.480ad504.js",
+    "static/js/453.c76d04fb.chunk.js": "/gamebook/static/js/453.c76d04fb.chunk.js",
+    "service-worker.js": "/gamebook/service-worker.js",
+    "index.html": "/gamebook/index.html",
+    "main.44a1682f.css.map": "/gamebook/static/css/main.44a1682f.css.map",
+    "main.480ad504.js.map": "/gamebook/static/js/main.480ad504.js.map",
+    "453.c76d04fb.chunk.js.map": "/gamebook/static/js/453.c76d04fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44a1682f.css",
+    "static/js/main.480ad504.js"
+  ]
+}
