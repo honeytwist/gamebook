@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8" />
+<title>GAME BOOK</title>
+<script>
+const redirectPath = location.pathname + location.search + location.hash;
+sessionStorage.setItem("redirect", redirectPath);
+location.replace("/gamebook");
+</script>
+</head>
+<body></body>
+</html>
